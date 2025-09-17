@@ -129,14 +129,6 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 - **📍 Ubicación:** Quito, Ecuador (Pichincha, Amaguarña)
 - **🎂 Fecha de Nacimiento:** 10 de junio de 1999
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
-
----
-
 > ⭐ *"Soy una persona comprometida con crear soluciones digitales innovadoras y prácticas. Me esfuerzo por mantenerme actualizado con las últimas tendencias tecnológicas, aplicando mis conocimientos en proyectos profesionales y personales."*
 
 🔗 **Conectemos y colaboremos en proyectos innovadores!**
