@@ -15,7 +15,7 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 ### Frameworks y Tecnologías
 - **Frontend:** Vue, React JS, Angular
 - **Backend:** Laravel, Express, Nest JS
-- **Mobile:** React Native, Cocos Create
+- **Mobile:** React Native
 - **Game Development:** Cocos Create
 
 ### Herramientas y Tecnologías
@@ -81,10 +81,11 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 **Profesor Particular de Programación** - Jessica Simbaña | Julio 2022 - Agosto 2022
 - Clases particulares de programación
 
-### 🛒 Experiencia Adicional
+### 🛒 Otra Experiencia
 **Vendedor de Productos Plásticos** - Carmen Suntaxi | Mayo 2021 - Presente
 - Venta, limpieza, inventario y logística de productos plásticos
 - Atención al cliente y gestión de local comercial
+- **Esta experiencia me ha permitido comprender profundamente el funcionamiento de un negocio comercial, los requerimientos específicos que necesitan los aplicativos empresariales y las necesidades reales de los usuarios finales en entornos comerciales.**
 
 ## 🌟 Proyectos Destacados
 
@@ -101,6 +102,7 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 - **Bases de Datos No Relacionales:** MongoDB
 - **Hosting:** Raywal, VPS Hostinger, Clever Cloud
 - **Entorno de Ejecución:** Node.js
+- **Desarrollo de Videojuegos:** Cocos Create
 
 ### Habilidades Blandas
 - Adaptabilidad y aprendizaje continuo
@@ -108,6 +110,7 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 - Trabajo en equipo y colaboración
 - Atención al cliente y comunicación efectiva
 - Gestión de proyectos y metodologías ágiles
+- Comprensión de necesidades empresariales y comerciales
 
 ## 🌐 Idiomas
 
@@ -116,7 +119,7 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 
 ## 🎯 Intereses y Pasatiempos
 
-- 🎮 Videojuegos y desarrollo de games
+- 🎮 Videojuegos y desarrollo de games con Cocos Create
 - 🎨 Edición de imágenes y vídeos
 - 📱 Diseño de aplicaciones web y móviles de interés personal
 - 🤖 Inteligencia Artificial, tecnología e innovación
@@ -129,6 +132,6 @@ Soy un desarrollador de software apasionado por crear soluciones digitales innov
 - **📍 Ubicación:** Quito, Ecuador (Pichincha, Amaguarña)
 - **🎂 Fecha de Nacimiento:** 10 de junio de 1999
 
-> ⭐ *"Soy una persona comprometida con crear soluciones digitales innovadoras y prácticas. Me esfuerzo por mantenerme actualizado con las últimas tendencias tecnológicas, aplicando mis conocimientos en proyectos profesionales y personales."*
+> ⭐ *"Soy una persona comprometida con crear soluciones digitales innovadoras y prácticas. Me esfuerzo por mantenerme actualizado con las últimas tendencias tecnológicas, aplicando mis conocimientos en proyectos profesionales y personales. Mi experiencia en el ámbito comercial me permite entender mejor las necesidades reales de los negocios y desarrollar aplicaciones que realmente resuelvan problemas concretos."*
 
 🔗 **Conectemos y colaboremos en proyectos innovadores!**
